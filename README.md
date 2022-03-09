@@ -1,1 +1,1 @@
-# java-projects
+# Only Trie interface
