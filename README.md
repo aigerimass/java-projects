@@ -1,1 +1,1 @@
-# Only Trie interface
+# Only interfaces
